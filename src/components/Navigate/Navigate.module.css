@@ -1,0 +1,12 @@
+.Navigate {
+  padding: 20px;
+  font-size: 20px;
+  border-bottom: 2px solid gray;
+}
+
+.NavHome {
+  margin-right: 30px;
+}
+.Link.active {
+  color: red;
+}

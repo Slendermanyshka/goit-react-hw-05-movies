@@ -1,0 +1,13 @@
+.ListItem {
+  margin-bottom: 5px;
+  list-style: none;
+}
+
+a{
+ text-decoration: none;
+ color: rgb(77, 77, 77); 
+}
+a:hover{
+  text-decoration: none;
+  color: rgb(255, 0, 0); 
+ }

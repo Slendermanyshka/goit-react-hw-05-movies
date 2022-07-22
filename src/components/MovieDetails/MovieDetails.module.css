@@ -1,0 +1,41 @@
+.cardContainer {
+  padding: 20px;
+}
+
+.Image {
+  width: 220px;
+}
+
+.Container {
+  display: flex;
+  padding-bottom: 10px;
+}
+
+.imageThumb {
+  margin-right: 25px;
+  margin-top: 10px;
+}
+
+.genresList {
+  display: flex;
+}
+
+.movieGenres {
+  list-style: none;
+  margin-right: 5px;
+  padding: 0 5px;
+}
+
+.movieGenres:not(:last-child) {
+  border-right: 2px solid red;
+}
+/* .section {
+  padding: 20px;
+} */
+.information {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  border-bottom: 2px solid gray;
+  border-top: 2px solid gray;
+}
